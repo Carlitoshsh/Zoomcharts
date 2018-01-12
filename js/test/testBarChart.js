@@ -13,7 +13,7 @@ chart= new FacetChart({
     "container": "demo",
     "data": [
         {
-            "url": "https:\/\/zoomcharts.com\/data\/us-economy.json"
+            "url": "https://raw.githubusercontent.com/Carlitoshsh/Zoomcharts/master/us-economy.json"
         }
     ],
     "toolbar": {
