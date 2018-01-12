@@ -1,0 +1,119 @@
+.images_tooltip{
+  width: 95%;
+  margin: 15px;
+  margin-top: 20px;
+  align: left;
+}
+
+.text_tooltip{
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 300;
+  padding:5px;
+  text-align: justify;
+}
+
+.div_text_tooltip{
+  float: left;
+  width: 40%;
+  padding: 2%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.div_image_tooltip{
+  float: left;
+  width: 45%;
+  margin-right: 3%;
+  height: 100%;
+}
+
+#graphContainer{
+  width: 100%;
+  height: 88%;
+  /*margin-top: 100px;*/
+  /*width: 100%;
+  height: 900px;
+  margin-top: 100px;*/
+}
+
+#search_bar{
+  position: absolute;
+  z-index: 2;
+  right: 10px;
+}
+
+#results{
+  position: absolute;
+  width: 60%;
+  margin: 2% 20% 2% 20%;
+  max-height: 70%;
+  overflow-y: auto;
+  z-index: 3;
+  border: 2px solid #e6e6e6;
+  background-color: #f2f2f2;
+  padding: 40px;
+  border-radius: 6px;
+  box-shadow: 2px #4d4d4d;
+  visibility: hidden;
+}
+
+#closeResultsDiv{
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}
+
+
+input[type=text], select {
+    width: 300px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+#leyenda{
+  position: absolute;
+  top: 100;
+  left: 10;
+  border: 1px solid #d1d1d1;
+  border-radius: 10px;
+  padding: 10px;
+  cursor: default;
+  user-select: none;
+  background-color: white;
+}
+
+.legend_list{
+  list-style: none;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+.legend_list li{
+  padding-top: 5px;
+}
+.legend_list li img{
+  width: 15px;
+  margin-right: 10px;
+}
+
+#banner img{
+  width: 100%;
+}
+
+#footer{
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+#footer img{
+  width: 100%;
+}
