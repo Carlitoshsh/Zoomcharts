@@ -1,17 +1,18 @@
 [
     {
         "id": 1,
-        "text": "3.7",
+        "text": "master",
         "children": [
             {
                 "id": 2,
-                "text": "readme.txt",
+                "text": "dataSyntaxnet.json",
                 "icon" : "jstree-file"
 
             },
             {
                 "id": 3,
-                "text": "Child node 2"
+                "text": "simpleData.json",
+                "icon" : "jstree-file"
             }
         ]
     }
