@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "text": "3.7",
+        "children": [
+            {
+                "id": 2,
+                "text": "readme.txt",
+                "icon" : "jstree-file"
+
+            },
+            {
+                "id": 3,
+                "text": "Child node 2"
+            }
+        ]
+    }
+]
