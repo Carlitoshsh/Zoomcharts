@@ -2,21 +2,20 @@
     {
         "id": 1,
         "text": "master",
-        "state" : {
-           "opened": "true",
-            "selected" : "false"
-         },
+        "state": {
+            "opened": "true",
+            "selected": "false"
+        },
         "children": [
             {
                 "id": 2,
                 "text": "dataSyntaxnet.json",
-                "icon" : "jstree-file"
-
+                "icon": "jstree-file"
             },
             {
                 "id": 3,
                 "text": "simpleData.json",
-                "icon" : "jstree-file"
+                "icon": "jstree-file"
             }
         ]
     }
