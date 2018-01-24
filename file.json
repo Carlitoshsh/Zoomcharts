@@ -2,9 +2,11 @@
     {
         "id": 1,
         "text": "master",
-        "opened": "true",
-        "disabled": "true",
-        "selected": "false",
+        'state' : {
+           "opened": "true",
+           "disabled": "true",
+           "selected": "false"
+         },
         "children": [
             {
                 "id": 2,
