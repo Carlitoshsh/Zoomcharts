@@ -3,8 +3,7 @@
         "id": 1,
         "text": "master",
         "state" : {
-           "opened": "true",
-           "selected": "false"
+           "opened": "true"
          },
         "children": [
             {
