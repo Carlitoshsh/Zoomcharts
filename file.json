@@ -4,6 +4,7 @@
         "text": "master",
         "state": {
             "opened": "true",
+            "disabled": "false",
             "selected": "false"
         },
         "children": [
