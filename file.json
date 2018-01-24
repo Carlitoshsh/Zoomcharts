@@ -2,7 +2,6 @@
     {
         "id": 1,
         "text": "master",
-        "parent": "",
         "state" : {
            "opened": "true",
             "selected" : "false"
