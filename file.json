@@ -2,7 +2,7 @@
     {
         "id": 1,
         "text": "master",
-        "disable": "true",
+        "selected": "true",
         "children": [
             {
                 "id": 2,
